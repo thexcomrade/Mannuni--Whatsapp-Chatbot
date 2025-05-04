@@ -1,0 +1,160 @@
+2025-04-17 15:54:22,276 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 15:54:22,390 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.39:5000
+2025-04-17 15:54:22,391 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 15:54:22,394 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 15:54:23,744 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 15:54:23,758 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 15:54:23,761 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 15:58:31,380 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 15:58:31,405 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.39:5000
+2025-04-17 15:58:31,406 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 15:58:31,407 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 15:58:32,854 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 15:58:32,869 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 15:58:32,871 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 15:59:38,496 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 15:59:38,519 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.39:5000
+2025-04-17 15:59:38,520 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 15:59:38,521 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 15:59:40,108 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 15:59:40,123 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 15:59:40,126 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 16:03:27,921 - werkzeug - INFO -  * Detected change in 'D:\\MANNUNI\\app.py', reloading
+2025-04-17 16:03:28,071 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 16:03:33,110 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 16:03:33,136 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.39:5000
+2025-04-17 16:03:33,136 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 16:03:33,138 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 16:03:34,431 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 16:03:34,445 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 16:03:34,447 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 16:03:38,154 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:03:38] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-17 16:03:38,709 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:03:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 16:12:32,138 - werkzeug - INFO -  * Detected change in 'D:\\MANNUNI\\app.py', reloading
+2025-04-17 16:12:32,276 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 16:12:42,305 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 16:12:42,334 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.39:5000
+2025-04-17 16:12:42,334 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 16:12:42,335 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 16:12:43,589 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 16:12:43,603 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 16:12:43,607 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 16:12:47,286 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:12:47] "GET / HTTP/1.1" 200 -
+2025-04-17 16:12:47,364 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:12:47] "GET /static/css/mannuni_style.css HTTP/1.1" 200 -
+2025-04-17 16:12:47,808 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:12:47] "GET /static/img/mannuni_icon.ico HTTP/1.1" 200 -
+2025-04-17 16:12:48,228 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:12:48] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-17 16:25:32,198 - werkzeug - INFO -  * Detected change in 'D:\\MANNUNI\\utils\\api_connectors.py', reloading
+2025-04-17 16:25:32,329 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 16:25:34,620 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 16:25:34,635 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 16:25:34,638 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 16:31:36,322 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:31:36] "GET / HTTP/1.1" 200 -
+2025-04-17 16:31:36,406 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:31:36] "[36mGET /static/css/mannuni_style.css HTTP/1.1[0m" 304 -
+2025-04-17 16:31:36,830 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:31:36] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-17 16:31:37,169 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 16:31:37] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-17 18:00:24,118 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 18:00:24,189 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.39:5000
+2025-04-17 18:00:24,189 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 18:00:24,191 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 18:00:25,500 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 18:00:25,517 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 18:00:25,519 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 19:29:09,922 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 19:29:09,969 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.39:5000
+2025-04-17 19:29:09,969 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 19:29:09,971 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 19:29:12,251 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 19:29:12,278 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 19:29:12,280 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 19:29:29,008 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:29:29] "GET / HTTP/1.1" 200 -
+2025-04-17 19:29:29,258 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:29:29] "[36mGET /static/css/mannuni_style.css HTTP/1.1[0m" 304 -
+2025-04-17 19:29:29,877 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:29:29] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-17 19:38:02,465 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 19:38:02,499 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.39:5000
+2025-04-17 19:38:02,500 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 19:38:02,501 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 19:38:04,439 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 19:38:04,460 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 19:38:04,463 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 19:38:23,537 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:38:23] "GET / HTTP/1.1" 200 -
+2025-04-17 19:38:23,728 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:38:23] "[36mGET /static/css/mannuni_style.css HTTP/1.1[0m" 304 -
+2025-04-17 19:38:24,466 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:38:24] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-17 19:39:17,133 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:39:17] "GET / HTTP/1.1" 200 -
+2025-04-17 19:39:17,160 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:39:17] "[36mGET /static/css/mannuni_style.css HTTP/1.1[0m" 304 -
+2025-04-17 19:39:17,987 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:39:17] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-17 19:52:19,002 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 19:52:19,050 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.39:5000
+2025-04-17 19:52:19,050 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 19:52:19,052 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 19:52:21,046 - MannuniBot - INFO - Starting Mannuni WhatsApp Bot
+2025-04-17 19:52:21,068 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 19:52:21,073 - werkzeug - INFO -  * Debugger PIN: 144-872-502
+2025-04-17 19:52:25,276 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:52:25] "GET / HTTP/1.1" 200 -
+2025-04-17 19:52:25,299 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:52:25] "[36mGET /static/css/mannuni_style.css HTTP/1.1[0m" 304 -
+2025-04-17 19:52:26,202 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 19:52:26] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-26 13:54:33,110 - INFO - Starting Mannuni WhatsApp Bot
+2025-04-26 13:54:33,209 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.194:5000
+2025-04-26 13:54:33,210 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 13:54:33,216 - INFO -  * Restarting with stat
+2025-04-26 13:54:35,815 - INFO - Starting Mannuni WhatsApp Bot
+2025-04-26 13:54:35,847 - WARNING -  * Debugger is active!
+2025-04-26 13:54:35,852 - INFO -  * Debugger PIN: 421-379-973
+2025-04-26 13:54:47,340 - INFO - 127.0.0.1 - - [26/Apr/2025 13:54:47] "GET / HTTP/1.1" 200 -
+2025-04-26 13:54:47,479 - INFO - 127.0.0.1 - - [26/Apr/2025 13:54:47] "[36mGET /static/css/mannuni_style.css HTTP/1.1[0m" 304 -
+2025-04-26 13:54:48,376 - INFO - 127.0.0.1 - - [26/Apr/2025 13:54:48] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-26 13:54:48,830 - INFO - 127.0.0.1 - - [26/Apr/2025 13:54:48] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-26 13:57:03,420 - INFO - Starting Mannuni WhatsApp Bot
+2025-04-26 13:57:03,461 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.194:5000
+2025-04-26 13:57:03,461 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 13:57:03,464 - INFO -  * Restarting with stat
+2025-04-26 13:57:05,700 - INFO - Starting Mannuni WhatsApp Bot
+2025-04-26 13:57:05,727 - WARNING -  * Debugger is active!
+2025-04-26 13:57:05,730 - INFO -  * Debugger PIN: 421-379-973
+2025-04-26 13:57:21,850 - INFO - 127.0.0.1 - - [26/Apr/2025 13:57:21] "GET / HTTP/1.1" 200 -
+2025-04-26 13:57:21,982 - INFO - 127.0.0.1 - - [26/Apr/2025 13:57:21] "[36mGET /static/css/mannuni_style.css HTTP/1.1[0m" 304 -
+2025-04-26 13:57:22,743 - INFO - 127.0.0.1 - - [26/Apr/2025 13:57:22] "[36mGET /static/img/mannuni_icon.ico HTTP/1.1[0m" 304 -
+2025-04-26 14:20:01,920 - INFO -  * Detected change in 'D:\\MANNUNI\\app.py', reloading
+2025-04-26 14:20:02,085 - INFO -  * Restarting with stat
+2025-04-26 14:20:15,523 - INFO - Starting Mannuni WhatsApp Bot
+2025-04-26 14:20:15,631 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.194:5000
+2025-04-26 14:20:15,632 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 14:20:15,634 - INFO -  * Restarting with stat
+2025-04-26 14:20:17,451 - INFO - Starting Mannuni WhatsApp Bot
+2025-04-26 14:20:17,467 - WARNING -  * Debugger is active!
+2025-04-26 14:20:17,469 - INFO -  * Debugger PIN: 421-379-973

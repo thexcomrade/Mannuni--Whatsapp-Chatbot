@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mannuni Error</title>
+    <link rel="stylesheet" href="/static/css/mannuni_style.css">
+    <link rel="icon" href="/static/img/mannuni_icon.ico">
+    <style>
+        .error-container {
+            text-align: center;
+            padding: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .error-header {
+            background: #e74c3c;
+            color: white;
+            padding: 2rem;
+            border-radius: 12px 12px 0 0;
+            margin-bottom: -1px;
+        }
+        .error-content {
+            background: white;
+            padding: 2rem;
+            border-radius: 0 0 12px 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        .error-details {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1.5rem 0;
+            font-family: monospace;
+            text-align: left;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        .home-button {
+            display: inline-block;
+            background: #6e48aa;
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            margin-top: 1.5rem;
+            transition: all 0.3s ease;
+        }
+        .home-button:hover {
+            background: #9d50bb;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .creator-footer {
+            font-size: 0.9rem;
+            color: #666;
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 1rem;
+            border-top: 1px solid #eee;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-header">
+        <h1>⚠️ Mannuni Error</h1>
+        <p>We encountered an issue</p>
+    </div>
+
+    <div class="error-container">
+        <div class="error-content">
+            <h2>Something went wrong</h2>
+            <p>Our team (aka thexcomrade) has been notified.</p>
+            
+            <div class="error-details">
+                Error details: <span id="error-message">{{ error }}</span>
+            </div>
+
+            <p>Try refreshing the page or return to the dashboard:</p>
+            <a href="/" class="home-button">🏠 Return to Dashboard</a>
+        </div>
+    </div>
+
+    <div class="creator-footer">
+        <p>Mannuni AI Assistant - created by thexcomrade</p>
+        <p>College Project - Computer Science Department</p>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const errorMsg = document.getElementById('error-message').textContent;
+            if (errorMsg) {
+                console.error('Mannuni Error:', errorMsg);
+            }
+        });
+    </script>
+</body>
+</html>
